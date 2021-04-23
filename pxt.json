@@ -9,6 +9,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
+        "examples.md",
+        "projects.md",
         "tutorials/lichtsirene.md",
         "tutorials/heisserdraht.md",
         "tutorials/maulwurf.md",
