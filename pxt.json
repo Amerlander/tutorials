@@ -1,5 +1,5 @@
 {
-    "name": "makecode-calliopemini-tutorials",
+    "name": "makecode-tutorials",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -8,9 +8,22 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "examples.md",
-        "projects.md",
         "README.md",
+        "tutorials/lichtsirene.md",
+        "tutorials/heisserdraht.md",
+        "tutorials/maulwurf.md",
+        "tutorials/kipplicht.md",
+        "tutorials/klavier.md",
+        "tutorials/orakel.md",
+        "tutorials/stoppuhr.md",
+        "tutorials/countdown.md",
+        "tutorials/wasserwaage.md",
+        "tutorials/helligkeit.md",
+        "tutorials/feuchtigkeit.md",
+        "tutorials/temperatur.md",
+        "tutorials/blinkendesherz.md",
+        "tutorials/niederschlag.md",
+        "tutorials/alarmanlage.md",
         "calliope/examples.md",
         "calliope/firststeps.md",
         "calliope/links.md",
@@ -21,7 +34,6 @@
         "calliope/firststeps/Loops.md",
         "calliope/firststeps/Mathematics.md",
         "calliope/firststeps/Output.md",
-        "calliope/firststeps/powerItUp.png",
         "calliope/firststeps/Radio.md",
         "calliope/firststeps/Sensors.md",
         "calliope/firststeps/Variables.md",
@@ -44,7 +56,9 @@
         "tutorials/hour-of-code/hey-microbit.md",
         "tutorials/hour-of-code/rock-paper-scissors.md"
     ],
-    "testFiles": [],
+    "testFiles": [
+        "test.ts"
+    ],
     "supportedTargets": [
         "calliopemini"
     ],
