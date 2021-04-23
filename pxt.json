@@ -6,9 +6,10 @@
         "radio": "*"
     },
     "files": [
+        "main.blocks",
+        "main.ts",
         "examples.md",
         "projects.md",
-        "pxt.json",
         "README.md",
         "calliope/examples.md",
         "calliope/firststeps.md",
