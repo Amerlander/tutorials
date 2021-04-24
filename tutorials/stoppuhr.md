@@ -29,7 +29,7 @@ In der vereinfachten Version des Programmes
 Dabei merkt sich der Calliope mini den Zeitpunkt an der die Taste A gedrückt wird. 
 Erstelle hierfür eine Variable ``||variables.Startzeit||`` und setze diese auf die ``||input.Laufzeit||``.
 
-![alt text](https://raw.githubusercontent.com/jasperp92/makecode-tutorials/master/assets/images/variablen.gif)
+![alt text](https://raw.githubusercontent.com/Amerlander/makecode-tutorials/master/assets/images/variablen.gif)
 
 ```blocks
 let Startzeit = 0

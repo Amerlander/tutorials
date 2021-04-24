@@ -13,7 +13,7 @@ Als erstens legen wir eine Variable für die Temperatur an.
 - Erstelle eine ``||variables.Variable||``
 - Nenne diese ``Temperatur``
 
-![alt text](https://raw.githubusercontent.com/jasperp92/makecode-tutorials/master/assets/images/variablen.gif)
+![alt text](https://raw.githubusercontent.com/Amerlander/makecode-tutorials/master/assets/images/variablen.gif)
 
 ```template
 basic.forever(function () {

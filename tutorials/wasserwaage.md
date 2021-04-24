@@ -178,7 +178,7 @@ Erstelle dazu eine neue Variable ``||variables.x_davor||``
 und füge eine ``||logic.Wenn/dann/ansonsten-Bedingung||`` ein
 damit wir prüfen können, ob die LED schon angeschaltet wurde.
 
-![alt text](https://raw.githubusercontent.com/jasperp92/makecode-tutorials/master/assets/images/variablen.gif)
+![alt text](https://raw.githubusercontent.com/Amerlander/makecode-tutorials/master/assets/images/variablen.gif)
 
 ## Step 12
 
